@@ -1,5 +1,4 @@
-# new proj  
-by Honey Daram!!!# New Project
+# New Project
 ================
 
 ### Project Description
